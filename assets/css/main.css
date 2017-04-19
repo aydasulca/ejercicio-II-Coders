@@ -1,0 +1,44 @@
+p {
+  font-family: 'Special Elite', cursive;
+  font-size: 50px;
+  margin-bottom: 0px;
+  position: absolute;
+  top: 0px;
+}
+hr {
+  border: 0px;
+  margin-left: 0px;
+  background-color: black;
+  height: 5px;
+  width: 180px;
+  position: absolute;
+  top: 100px;
+}
+
+
+figure {
+position: relative;
+display: inline-block;
+}
+.foto {
+  width: 250px;
+  height: 250px;
+  display: inline-block;
+
+}
+
+.chile {
+  display: inline-block;
+  top: 150px;
+  position: relative;
+}
+figcaption {
+  right: 10px;
+  bottom: 0px;
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+  font-family: 'Special Elite', cursive;
+  color: white;
+  font-size: 20px;
+}
